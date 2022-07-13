@@ -1,0 +1,18 @@
+name: dynPCA
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas=1.4.2
+  - openpyxl=3.0.5
+  - xlrd=1.2.0
+  - scikit-learn=0.23.2
+  - numpy=1.21.6
+  - statsmodels=0.12.0
+  - scipy=1.8.0
+  - matplotlib=3.3.2
+  - jupyter
+  - conda
+  - datashader=0.11.1
+prefix: ./envs
