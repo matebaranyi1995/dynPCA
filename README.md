@@ -13,6 +13,7 @@ Then activate the environment:
 The core of the module is `lowrankappr.py`
 
 A jupyter notebook is also available to test the code: `dynPCA_tutorial.ipynb`
+
 A comparison with static PCA is included the jupyter notebook: `dynPCA_errors.ipynb`
 
 ## References:
